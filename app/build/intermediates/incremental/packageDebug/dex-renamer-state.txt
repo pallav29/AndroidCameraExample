@@ -1,0 +1,4 @@
+#Fri Sep 29 08:32:18 PDT 2017
+base.0=E\:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

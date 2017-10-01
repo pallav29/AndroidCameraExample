@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pallav\.android\build-cache\65f26c6952f4d8bdbfe9bdbfa39e607c62ab51a0\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Git_Repository\AndroidCameraExample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_70991f2de47506d44d5e66683df9017845d0d918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pallav\.android\build-cache\65f26c6952f4d8bdbfe9bdbfa39e607c62ab51a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Git_Repository\AndroidCameraExample\app\build\intermediates\pre-dexed\debug\classes_545d771fdb275534f5b5cc00f59843000fee80ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pallav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Git_Repository\AndroidCameraExample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_a9304625683f072468c3d70852cb5f8da5c58685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pallav\.android\build-cache\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Git_Repository\AndroidCameraExample\app\build\intermediates\pre-dexed\debug\classes_a074ce58456272f0566cfceafd9a63a6e77ec98a.jar" />
+    </item>
+
+</items>

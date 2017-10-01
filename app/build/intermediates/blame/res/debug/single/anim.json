@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Git_Repository\\AndroidCameraExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Pallav\\.android\\build-cache\\f33e4d00d6d44e580575c8abe099d6d33a39a5a8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
